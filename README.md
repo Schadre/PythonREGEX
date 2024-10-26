@@ -5,8 +5,7 @@ Welcome to the Python REGEX!
 ## 📂 Module 3 - Lesson 4 - Python REGEX
 
 - **Module 3 - Lesson 4 - Assignments - Python REGEX**
-  - `.py`
-  - `.py`
+  - `PythonREGEXDeepDive.py`
 
 - **Module 3 - Lesson 4 - Exercises - Python REGEX**
   - `EcommerceProductDataExtraction.py`
